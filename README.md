@@ -1,7 +1,5 @@
 # Book-Store
 
-# Book-Store
-
 Project Name: Online Bookstore
 
 Project Description:
